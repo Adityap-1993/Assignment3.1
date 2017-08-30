@@ -1,5 +1,7 @@
 package assignment3_1; 
 
+//This program will show scope of instance and class(static) variables
+
 public class Student {  //class definition 
 	
 	public static String college= "GCEK";   //static variable declaration
